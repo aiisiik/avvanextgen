@@ -142,7 +142,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-5. Playing our games with other players
+### 5. Playing our games with other players
 
  
 
@@ -154,7 +154,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-6. Storage of Information
+### 6. Storage of Information
 
  
 
@@ -162,7 +162,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-7. Protection of Information
+### 7. Protection of Information
 
  
 
@@ -170,7 +170,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-8. Links to third parties in our Services
+### 8. Links to third parties in our Services
 
  
 
