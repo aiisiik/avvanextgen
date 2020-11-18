@@ -1,6 +1,6 @@
 ![AvvaNextGen Logo](/ang_logo.png)
 # AvvaNextGen
-[English](/privacy_policy_en.html) [Russian](/privacy_policy_ru.html)
+[English](privacy_policy_en.html) [Russian](privacy_policy_ru.html)
 ## PRIVACY POLICY AvvaNextGen
 
 Last updated: November 18, 2020
