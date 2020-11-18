@@ -1,7 +1,7 @@
-# AvvaNextGen
 ![AvvaNextGen Logo](/ang_logo.png)
+# AvvaNextGen
 
-PRIVACY POLICY AvvaNextGen
+##PRIVACY POLICY AvvaNextGen
 
 Last updated: November 18, 2020
 
@@ -11,7 +11,7 @@ Thanks for using our games, websites, marketing and advertising activities or re
 
  
 
-1. Introduction
+###1. Introduction
 
  
 
@@ -31,9 +31,7 @@ If we discover that we have collected personal data about a child under the rele
 
  
 
-2. Information we collect and receive
-
- 
+###2. Information we collect and receive
 
 We may collect and receive information which may be considered personal data according to applicable laws in a variety of ways. More specifically:
 
@@ -53,17 +51,12 @@ Whether we collect some or all of this information often depends on the type of 
 
 2.1.3. Data we collect from our partners:
 
--      Data we receive if you link a third party tool with the Service (such as Facebook);
-
--      Data to fight fraud (such as refund abuse in games or click fraud in advertising);
-
--      Details of orders (such as items, date, amount, status, description, broad geographic location (e.g. country or city-level location));
-
--      Data for advertising and marketing purposes;
-
--      Data for analytics purposes, so we can provide you a better Service;
-
--      Data from other group companies or third party companies who have obtained your consent or have another legal right to share such information with us (including publishing partners, platforms, advertising platforms and partners and data aggregator). This may include attributes about you and your interests, as well as other games and services you use, demographic and general location information. We will use this information as described in this Privacy Policy and subject to any limitations in the privacy policy of the company that collected the information from you.
+- Data we receive if you link a third party tool with the Service (such as Facebook);
+- Data to fight fraud (such as refund abuse in games or click fraud in advertising);
+- Details of orders (such as items, date, amount, status, description, broad geographic location (e.g. country or city-level location));
+- Data for advertising and marketing purposes;
+- Data for analytics purposes, so we can provide you a better Service;
+- Data from other group companies or third party companies who have obtained your consent or have another legal right to share such information with us (including publishing partners, platforms, advertising platforms and partners and data aggregator). This may include attributes about you and your interests, as well as other games and services you use, demographic and general location information. We will use this information as described in this Privacy Policy and subject to any limitations in the privacy policy of the company that collected the information from you.
 
 2.2. When you visit our website
 
@@ -91,7 +84,7 @@ When you are representatives of our business partners, vendors of corporate cust
 
  
 
-3. How is your Personal Data used?
+###3. How is your Personal Data used?
 
  
 
@@ -135,7 +128,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-4. Your Personal Data will be shared with third parties
+###4. Your Personal Data will be shared with third parties
 
  
 
@@ -185,7 +178,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-9. International data transfers
+###9. International data transfers
 
  
 
@@ -193,19 +186,19 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-10. Legal Bases for Processing Personal Data
+###10. Legal Bases for Processing Personal Data
 
  
 
 10.1. In each case where we process your Personal Data, we do so lawfully in accordance with one of the legal basis according to the applicable law. The legal bases which we rely upon are the following:
 
--      We need the personal data to perform a contract with you. This applies when data used by us in order to provide you with Services that you have requested - and that we have agreed - to provide to you, such as our games, customer services, chat functionality and third party social network connectivity;
+- We need the personal data to perform a contract with you. This applies when data used by us in order to provide you with Services that you have requested - and that we have agreed - to provide to you, such as our games, customer services, chat functionality and third party social network connectivity;
 
--      Legal Obligation. This applies when data used by us to comply with a legal obligation, such as the preventing a crime or fraud or maintaining tax record;
+- Legal Obligation. This applies when data used by us to comply with a legal obligation, such as the preventing a crime or fraud or maintaining tax record;
 
--      Legitimate Interests. This applies when data used for analytics, research and optimisation of the Services, and marketing purposes, including direct or target interest based advertising; and
+- Legitimate Interests. This applies when data used for analytics, research and optimisation of the Services, and marketing purposes, including direct or target interest based advertising; and
 
--      Consent. This applies when you voluntarily give us specific, informed and unambiguous indication of you wishes by which you signifies agreement to the processing of your personal data.
+- Consent. This applies when you voluntarily give us specific, informed and unambiguous indication of you wishes by which you signifies agreement to the processing of your personal data.
 
  
 
@@ -247,7 +240,7 @@ In certain specific circumstances you have a right to object to the processing o
 
  
 
-12. How to contact us
+###12. How to contact us
 
  
 
@@ -255,7 +248,7 @@ In certain specific circumstances you have a right to object to the processing o
 
  
 
-13. Changes of Privacy Policy
+###13. Changes of Privacy Policy
 
  
 
