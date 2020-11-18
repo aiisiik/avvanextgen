@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# AvvaNextGen
+
+- [Privacy policy (English)](https://github.com/)
+- [Privacy policy (Russian)](https://github.com/)
+
 
 You can use the [editor on GitHub](https://github.com/aiisiik/avvanextgen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
