@@ -3,7 +3,7 @@
 [English](privacy_policy_en.html) [Russian](privacy_policy_ru.html)
 ## PRIVACY POLICY AvvaNextGen
 
-Last updated: November 18, 2020
+*Last updated: November 18, 2020*
 
 
 
