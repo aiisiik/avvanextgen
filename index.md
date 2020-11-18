@@ -1,7 +1,7 @@
 ![AvvaNextGen Logo](/ang_logo.png)
 # AvvaNextGen
 
-##PRIVACY POLICY AvvaNextGen
+## PRIVACY POLICY AvvaNextGen
 
 Last updated: November 18, 2020
 
@@ -11,7 +11,7 @@ Thanks for using our games, websites, marketing and advertising activities or re
 
  
 
-###1. Introduction
+### 1. Introduction
 
  
 
@@ -31,7 +31,7 @@ If we discover that we have collected personal data about a child under the rele
 
  
 
-###2. Information we collect and receive
+### 2. Information we collect and receive
 
 We may collect and receive information which may be considered personal data according to applicable laws in a variety of ways. More specifically:
 
@@ -84,7 +84,7 @@ When you are representatives of our business partners, vendors of corporate cust
 
  
 
-###3. How is your Personal Data used?
+### 3. How is your Personal Data used?
 
  
 
@@ -128,7 +128,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-###4. Your Personal Data will be shared with third parties
+### 4. Your Personal Data will be shared with third parties
 
  
 
@@ -178,7 +178,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-###9. International data transfers
+### 9. International data transfers
 
  
 
@@ -186,7 +186,7 @@ With your consent, we may process your data for additional purposes, such as usi
 
  
 
-###10. Legal Bases for Processing Personal Data
+### 10. Legal Bases for Processing Personal Data
 
  
 
@@ -240,7 +240,7 @@ In certain specific circumstances you have a right to object to the processing o
 
  
 
-###12. How to contact us
+### 12. How to contact us
 
  
 
@@ -248,7 +248,7 @@ In certain specific circumstances you have a right to object to the processing o
 
  
 
-###13. Changes of Privacy Policy
+### 13. Changes of Privacy Policy
 
  
 
